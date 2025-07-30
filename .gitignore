@@ -402,3 +402,9 @@ FodyWeavers.xsd
 
 # Catfacts.txt Ignore
 catfacts.txt
+
+# ignore data
+RecruitmentTaskApp/data/*
+
+# not ignore uploads directory, but keep it empty
+!RecruitmentTaskApp/data/.gitkeep

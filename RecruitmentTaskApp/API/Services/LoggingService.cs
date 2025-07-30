@@ -6,7 +6,7 @@ namespace API.Services;
 
 public class LoggingService : ILoggingService
 {
-    private readonly string _filePath = "catfacts.txt";
+    private readonly string _filePath = "data/catfacts.txt";
 
     public async Task LogToFileAsync(CatFactResponse fact)
     {
