@@ -10,7 +10,7 @@ Prosta aplikacja ASP.NET Core Web API, która pobiera fakty o kotach z zewnętrz
 
 2. W katalogu projektu uruchom:
 
-bash
+bash:
 docker-compose up --build
 
 3. Aplikacja dostępna pod 
