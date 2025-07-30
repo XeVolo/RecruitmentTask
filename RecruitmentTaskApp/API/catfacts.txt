@@ -1,5 +1,0 @@
-{"Fact":"The average litter of kittens is between 2 - 6 kittens.","Length":55}
-{"Fact":"Of all the species of cats, the domestic cat is the only species able to hold its tail vertically while walking. All species of wild cats hold their tail horizontally or tucked between their legs while walking.","Length":210}
-{"Fact":"Fossil records from two million years ago show evidence of jaguars.","Length":67}
-{"Fact":"A cat has more bones than a human; humans have 206, and the cat - 230.","Length":70}
-{"Fact":"Cats only sweat through their paws and nowhere else on their body","Length":65}
