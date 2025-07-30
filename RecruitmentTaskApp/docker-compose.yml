@@ -1,0 +1,9 @@
+services:
+  api:
+    image: ${DOCKER_REGISTRY-}api
+    build:
+      context: .
+      dockerfile: API/Dockerfile
+    ports:
+      - "5001:8080"
+    container_name: catfact-app
